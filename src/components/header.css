@@ -38,6 +38,11 @@
   border: 1px solid white;
 }
 
+.header-link{
+  color: white;
+  font-size: 20px;
+}
+
 .header .logo {
   height: 26px;
   margin-top: 1px;
